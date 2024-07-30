@@ -1,6 +1,6 @@
 # synth_seq v0.1
 
-syunth_seq v0.1 es una aplicación web que permite a los usuarios crear y reproducir secuencias de sonidos sintetizados. Utiliza la biblioteca Tone.js para la síntesis y la manipulación del audio.
+synth_seq v0.1 es una aplicación web que permite a los usuarios crear y reproducir secuencias de sonidos sintetizados. Utiliza la biblioteca Tone.js para la síntesis y la manipulación del audio.
 
 ## Características
 
